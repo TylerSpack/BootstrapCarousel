@@ -1,0 +1,13 @@
+.carousel-item img {
+    max-height: 500px;
+    object-fit: cover;
+}
+#carouselExampleIndicators{
+    background-color: #929292;
+}
+.black{
+    color: black;
+}
+.bold {
+    font-weight: bolder;
+}
